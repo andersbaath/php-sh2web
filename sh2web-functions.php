@@ -1,4 +1,5 @@
 <?php
+## Version 0.1
 ### FunctionShDupLightSetScenario ###########################################################
 function FunctionShDupLightSetScenario($CONTROLLER, $USERNAME, $PASSWORD, $SCENARIO, $ID) {
 	$LOGONURL = "http://$CONTROLLER/index.php";
