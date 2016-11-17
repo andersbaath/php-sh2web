@@ -1,5 +1,6 @@
 # php-sh2web
 php functions for Carlo Gavazzi Smarthouse SH2WEB conroller
+get and set values by using built in webserver (not modbus)
 
 $CONTROLLER = <IP of SH2WEB controller>
 $USERNAME = <One of the users that can read and write / if not admin dont forget to add priviledges to suer in config tool>
